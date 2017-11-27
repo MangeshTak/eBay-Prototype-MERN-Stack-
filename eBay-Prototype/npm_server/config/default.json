@@ -1,0 +1,15 @@
+{
+	"dbUrl" : "mongodb://localhost:27017/kayak", // looks like mongodb://<user>:<pass>@mongo.onmodulus.net:27017/Mikha4ot
+	"mySqlHost" : "localhost",
+	"mySqlPort" : 3306,
+	"mySqlUsername" : "root",
+	"mySqlPassword" : "root",
+	"mySqlDb" : "kayak",
+	"kafkaTopic" : "kayak",
+	"kafkaResponseTopic" : "response_topic",
+	//AWS S3
+	"accessKeyId" : "AKIAINMXDTKPNZH6M6JA",
+	"secretAccessKey" : "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",
+	"region" : "us-west-2",
+	"bucketName" : "kayak-assets"
+}

@@ -1,0 +1,23 @@
+.profile-page-wrapper .page-container .personal-details {
+
+}
+
+.profile-page-wrapper .page-container .personal-details .profile-img {
+    max-width: 75%;
+}
+
+.profile-page-wrapper .page-container .personal-details .btn-container {
+    width: 75%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.profile-page-wrapper .page-container .personal-details .label-text {
+
+}
+
+.profile-page-wrapper .page-container .personal-details .value {
+    font-weight: normal;
+    font-size: 13px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,11 @@
+.profile-panel-body .add-card-button{
+	margin-right: 10px
+}
+
+.profile-panel-body .add-card-button-div{
+	margin-bottom: 20px
+}
+
+.profileModal.cardModal .modal-dialog {
+	position: relative;
+}

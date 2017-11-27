@@ -1,0 +1,18 @@
+.roomType-container {
+  /*margin-top: 20px;*/
+}
+
+.roomType-container .roomType-label {
+  font-size: 13px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.roomType-container .roomType-price {
+  font-size: 13px;
+  padding-left: 10px;
+}
+
+.no-padding {
+  padding: 0px !important;
+}

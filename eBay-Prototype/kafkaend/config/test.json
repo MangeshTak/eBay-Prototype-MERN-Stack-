@@ -1,0 +1,10 @@
+{
+	"dbUrl" : "mongodb://localhost:27017/kayak_test", // looks like mongodb://<user>:<pass>@mongo.onmodulus.net:27017/Mikha4ot
+	"mySqlHost" : "localhost",
+	"mySqlPort" : 3306,
+	"mySqlUsername" : "root",
+	"mySqlPassword" : "root",
+	"mySqlDb" : "kayak_test",
+	"kafkaTopic" : "kayak",
+	"kafkaResponseTopic" : "response_topic"
+}

@@ -1,0 +1,33 @@
+.sidebar-panel {
+    width: 235px;
+    position: absolute;
+    background: #fff;
+    padding: 30px;
+}
+
+.sidebar-panel .nav-container {
+
+}
+
+.sidebar-panel .nav-container ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.sidebar-panel .nav-container ul li {
+    padding: 12px 0px;
+}
+
+.sidebar-panel .nav-container ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.sidebar-panel .nav-container ul li a:hover {
+    color: #ff690f;
+}
+
+.sidebar-panel .nav-container ul li a.active {
+    color: #ff690f;
+}

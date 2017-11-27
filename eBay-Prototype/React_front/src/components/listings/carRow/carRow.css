@@ -1,0 +1,172 @@
+.cars-row {
+	background: #fff;
+	margin-bottom: 15px;
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+.cars-row .price-section {
+    width: 240px;
+    padding: 65px;
+    border-left: 1px solid #e4e5ea;
+}
+
+.cars-row .price-section p {
+    font-size: 21px;
+}
+
+.cars-row .info-section {
+    padding: 15px;
+    flex-grow: 1;
+}
+
+.cars-row .info-section .divForImageAndName .carName-category .category-section{
+    color: black;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 15px
+}
+
+.cars-row .info-section .divForImageAndName .carName-category .specialRateButtonDiv{
+    margin-top: 25px ; 
+    margin-bottom : 15px;
+}
+
+
+.cars-row .info-section .divForImageAndName .carName-category .specialRateButtonDiv .specialRateButton{
+      border-radius: 0px;
+    background-color: #444;
+    color: white;
+}
+
+.cars-row .info-section .divForImageAndName{
+    text-align: left;
+    padding: 10px;
+    color: lightgray;
+    font-weight: 100;
+}
+
+
+
+
+.cars-row .info-section .divForImageAndName .carImageDiv{
+    min-width: 176px;
+    background-position: right 15px;
+    background-repeat: no-repeat;
+    text-align: left;
+    margin-top: 30px;
+    right: 0;
+    bottom: 0;
+    height: 100px;
+}
+
+.cars-row .info-section .divForImageAndName .carName-category .excess-info-text{
+     text-align: left;
+    padding: 0px;
+    margin-top: 10px;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+
+.cars-row .info-section .divForImageAndName {
+    padding: 0px;
+    padding-left: 10px;
+}
+
+.cars-row .info-section .divForImageAndName .carImageDiv .carImage{
+        border: 0;
+       width: 70%;
+       height: auto ;
+       margin-top: 20px
+        
+}
+
+
+.cars-row .info-section .divForImageAndName .carName-category .excess-info-text{
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.cars-row .info-section .divForImageAndName .carName-category .excess-info-text .occupancy{
+    margin-right: 45px;
+}
+
+.cars-row .info-section .divForImageAndName .carName-category .excess-info-text .occupancy .userFont{
+    color: black;
+    margin-right: 7px
+}
+
+.cars-row .info-section .divForImageAndName .carName-category .excess-info-text .luggage .suitcaseFont{
+    color: black;
+    margin-right: 7px
+}
+
+.cars-row .info-section .divForImageAndName .carName-category .excess-info-text .availableCars .carFont{
+    color: black;
+    margin-right: 7px
+}
+
+
+.cars-row .info-section .divForImageAndName .carName-category .excess-info-text .luggage{
+    margin-right: 45px
+}
+
+.cars-row .info-section .divForImageAndName .carName-category .excess-info-text{
+    color : black;
+}
+
+
+
+.cars-row .info-section .info-child {
+    display: inline-block;
+    width: auto;
+}
+
+.cars-row .info-section .info-child.carrier {
+    width: 100px;
+    font-weight: normal;
+}
+
+.cars-row .info-section .info-child.carrier p {
+    margin: 0px;
+}
+
+.cars-row .info-section .info-child.duration {
+    width: 100px;
+    font-weight: normal;
+}
+
+.cars-row .info-section .info-child.duration p {
+    margin: 0px;
+}
+
+.cars-row .info-section .info-child.time {
+    display: flex;
+}
+
+.cars-row .info-section .info-child.time .divider {
+    width: 70px;
+    height: 18px;
+    position: relative;
+    margin: 0px 15px;
+}
+
+.cars-row .info-section .info-child.time .divider:after {
+    content: "";
+    height: 2px;
+    background: #717585;
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    right: 0px;
+}
+
+.cars-row .info-section .info-child.time p {
+
+}
+
+.cars-row .info-section .info-child.time span {
+    font-weight: normal;
+}

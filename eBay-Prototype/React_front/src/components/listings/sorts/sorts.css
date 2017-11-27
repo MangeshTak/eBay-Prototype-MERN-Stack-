@@ -1,0 +1,13 @@
+.sorting-content {
+	min-height: 40px;
+}
+
+.sorting-content select {
+    height: 48px !important;
+    border-radius: 0px !important;
+}
+
+.sorting-content label {
+    line-height: 48px !important;
+    margin: 0px;
+}

@@ -1,0 +1,40 @@
+.filters-content {
+	background: #fff;
+}
+
+.filters-content .title-section {
+	padding: 15px;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.04);
+}
+
+.filters-content .title-section .title {
+	
+}
+
+.filters-content .groups-content {
+	padding: 30px 15px 0px;
+}
+
+.filters-content .groups-content .groups-section {
+	padding-bottom: 30px;
+}
+
+.filters-content .groups-content .groups-section .groups-title {
+	padding-bottom: 5px;
+	border-bottom: 1px solid #e4e5ea;
+}
+
+.filters-content .groups-content .groups-section .groups-list {
+	padding-top: 15px;
+	font-weight: normal;
+}
+
+.filters-content .groups-content .groups-section .groups-list ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.filters-content .groups-content .groups-section .groups-list ul li {
+
+}

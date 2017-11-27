@@ -1,0 +1,82 @@
+
+.booking-panel-body-component .single-price-component:last-child{
+	font-size: 12px ;
+	margin-top: 15px ;
+	margin-bottom: 17px !important
+}
+
+
+.booking-panel-body-component .single-price-component{
+	font-size: 12px ;
+	margin-top: 15px ;
+	margin-bottom: 25px
+}
+
+
+
+
+.booking-panel-body-component .header-additional-info{
+	text-align: center;
+}
+
+
+.booking-panel-body-component .travellers-info{
+	font-size: 12px ;
+	margin-top: 15px ;
+	margin-bottom: 25px
+}
+
+
+.booking-panel-body-component .single-price-component .fair-type-div .fair-type{
+
+	border-bottom: 1px solid #e4e5ea;
+	padding-bottom: 4px
+}
+
+.booking-panel-body-component .single-price-component .fair-type-div .fair-type-add-info{
+	padding-bottom: 4px
+}
+
+
+.booking-panel-body-component .single-price-component .buy{
+	padding-top: 16px ;
+	padding-left: 16px ;
+	padding-right: 16px
+}
+
+.booking-panel-body-component .single-price-component .buy button{
+	width : 100%;
+}
+
+
+
+
+.booking-panel-body-component .single-price-component .fair-type-price .fair-type{
+
+	border-bottom: 2px solid #747474 ;
+	padding-bottom: 4px
+}
+
+
+.booking-panel-body-component .single-price-component .fair-type-price{
+	padding: 0px ;
+	padding-right: 15px ;
+	text-align: right
+}
+
+.booking-panel-body-component .single-price-component .fair-type-price .price{
+	margin-left: 15px
+}
+
+
+.booking-panel-body-component .single-price-component .fair-type-price .price span{
+	margin-left: 15px ;
+	margin-right: 15px
+}
+
+
+
+.booking-panel-body-component .single-price-component .fair-type-div {
+
+	padding-right: 0
+}

@@ -1,0 +1,16 @@
+.form-container.car-search-form-container .form-body .fields-col .field-container.pickup {
+	width: 40%;
+}
+
+.form-container.car-search-form-container .form-body .fields-col .field-container.pickup input {
+
+}
+
+.form-container.car-search-form-container .form-body .fields-col .field-container.date {
+	width: 30%;
+	position: relative;
+}
+
+.form-container.car-search-form-container .form-body .fields-col .field-container.pickup-date input {
+	
+}

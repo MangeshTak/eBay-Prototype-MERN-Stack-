@@ -1,0 +1,88 @@
+.profile-page-wrapper {
+    min-height: 100vh;
+}
+
+.profile-page-wrapper .page-container {
+    width: 90%;
+    margin: 0px auto;
+    padding: 15px 0px;
+    position: relative;
+}
+
+.profile-page-wrapper .page-container .tab-section {
+    padding-left: 250px;
+    float: left;
+    width: 100%;
+}
+
+.profile-page-wrapper .profile-panel {
+    background: #fff;
+}
+
+.profile-page-wrapper .profile-panel .profile-panel-body {
+    padding: 30px;
+}
+
+
+.edit-button {
+	margin-top: 20px;
+}
+
+.profileImage {
+	height: 50px;
+	width: 50px;
+	margin-top: 10px;
+}
+
+.image-preview-input {
+	position: relative;
+	overflow: hidden;
+	margin: 0px;
+	color: #333;
+	background-color: #fff;
+	border-color: #ccc;
+}
+.image-preview-input input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+.image-preview-input-title {
+	margin-left:2px;
+}
+
+.image-preview{
+	padding-left: 15px !important;
+	padding-right: 15px !important ;
+}
+
+
+.profileModal .modal-dialog {
+	top: 15px;
+	bottom: 15px;
+	margin: 0px auto;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+}
+
+.profileModal .modal-content {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.profileModal .modal-body {
+	overflow-y: auto;
+	flex: 1;
+}
+
+.profileModal .modal-footer {
+	flex: none;
+}

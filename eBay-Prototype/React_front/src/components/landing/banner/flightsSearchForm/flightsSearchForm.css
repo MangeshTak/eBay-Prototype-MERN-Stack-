@@ -1,0 +1,32 @@
+.form-container.flight-search-form-container .form-body .fields-col .field-container.source {
+	width: 25%;
+}
+
+.form-container.flight-search-form-container .form-body .fields-col .field-container.source input {
+
+}
+
+.form-container.flight-search-form-container .form-body .fields-col .field-container.destination {
+	width: 25%;
+}
+
+.form-container.flight-search-form-container .form-body .fields-col .field-container.destination input {
+	
+}
+
+.form-container.flight-search-form-container .form-body .fields-col .field-container.date {
+	width: 30%;
+	position: relative;
+}
+
+.form-container.flight-search-form-container .form-body .fields-col .field-container.date input {
+	
+}
+
+.form-container.flight-search-form-container .form-body .fields-col .field-container.travelers {
+	width: 20%;
+}
+
+.form-container.flight-search-form-container .form-body .fields-col .field-container.travelers input {
+	
+}
